@@ -1,3 +1,5 @@
 ﻿  extra-task-1.cpp
 C:\Users\kosty\OneDrive\Документы\GitHub\cs211-extra-task-1\Bonus\extra-task-1.cpp(17,5): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\kosty\OneDrive\Документы\GitHub\cs211-extra-task-1\Bonus\extra-task-1.cpp(44,5): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\kosty\OneDrive\Документы\GitHub\cs211-extra-task-1\Bonus\extra-task-1.cpp(51,5): warning C4804: <=: небезопасное использование типа "bool" в операции
   Bonus.vcxproj -> C:\Users\kosty\OneDrive\Документы\GitHub\cs211-extra-task-1\Bonus\x64\Debug\Bonus.exe
